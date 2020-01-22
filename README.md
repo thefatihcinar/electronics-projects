@@ -25,5 +25,5 @@
 __Description:__ This small project is constructed to understand how street lamps work. Using a Photoresistor, we measure the ambient light and based on that the algorithm decides switching the lamp on or off. <br>
 __Used Hardware and Sensors:__  a Photoresistor (LDR) and Arduino UNO
 <br><br>
-<img src="http://i1.wp.com/sites.google.com/a/nkcps.k12.va.us/mrs-horne-6th-grade-history/_/rsrc/1410348455867/class-webquests/longitude-latitude/Image.jpg?resize=450,300">
+<img src="https://5.imimg.com/data5/XR/MT/MY-22596436/sodium-street-light-250x250.jpg">
 <br> <br><br><br>
