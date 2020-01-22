@@ -26,6 +26,6 @@ __Description:__ This small project is constructed to understand how street lamp
 __Used Hardware and Sensors:__  a Photoresistor (LDR) and Arduino UNO
 <br><br>
 <img src="https://5.imimg.com/data5/XR/MT/MY-22596436/sodium-street-light-250x250.jpg">
-<img src="https://github.com/fatihcinar1/electronics-projects/blob/master/Projects/Simulation%20of%20a%20Street%20Lamp/Pictures%20of%20the%20Projects/lights_off.jpg?raw=true" style="max-width:75%;">
+<img src="https://github.com/fatihcinar1/electronics-projects/blob/master/Projects/Simulation%20of%20a%20Street%20Lamp/Pictures%20of%20the%20Projects/lights_off.jpg?raw=true" style="max-width:50%;">
 
 <br> <br><br><br>
